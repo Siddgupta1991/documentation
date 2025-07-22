@@ -1,4 +1,4 @@
-:show-content:
+:show-content: 
 :hide-page-toc:
 
 =========
